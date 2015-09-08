@@ -68,3 +68,4 @@ req.pipe(fs.createWriteStream('nameImg.png')
             console.log('Error write to file', err);
         })
 );
+dasdasdasdas
